@@ -1,6 +1,8 @@
 # Data Exploration and Visualization
 Repository for Data Exploration and Visualization course projects.
 
+[Course website](https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=1120-DS000-MSA-0123&callback=g_d0ca46f8&lang=en)
+
 ## Purpose of course
 The course discussed the most important techniques for data exploration and visualization. Learning content takes into account:
 
